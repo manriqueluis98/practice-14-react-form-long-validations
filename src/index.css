@@ -1,1 +1,14 @@
 /* TODO Add site wide styles */
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.errorMsg{
+    color: red;
+    margin-top: 0;
+    font-size: 0.75rem;
+}
+
+.errorField{
+    border-color: red;
+}
